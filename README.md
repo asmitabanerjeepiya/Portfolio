@@ -1,3 +1,3 @@
 # Portfolio
 
-[Visit the site](asmitabanerjeepiya.github.io/Portfolio)
+[Visit the site](asmitabanerjeepiya.github.io/Portfolio/Portfolio)
